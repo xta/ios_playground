@@ -8,7 +8,11 @@ a place for experimental, just for fun iOS/Swift things
 
 * ### Gravity Box
 
-    * simple app with a box that gravity pulls downward. tap on the box to reverse the gravity
+    * gravity pulls a box downward. tap on the box to reverse the gravity
+
+* ### Fling View
+
+    * fling around a ball within the screen in any direction. grab the ball as it moves around to fling it again
  
 ## License
 
